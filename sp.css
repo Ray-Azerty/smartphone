@@ -18,7 +18,7 @@ ul{
   background-color: navy;
   color: #fffff0;
   height: 90px;
-  width: 860px;
+  width: 900px;
   float: left;
 }
 
@@ -46,7 +46,7 @@ h1{
 }
 
 .copy-container{
-  width:860px;
+  width:900px;
   float: left;
 }
 
@@ -72,7 +72,7 @@ h1{
 
 .article{
   background-color: whitesmoke;
-  width:860px;
+  width:900px;
 }
 
 .contact-form{
