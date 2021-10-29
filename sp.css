@@ -46,8 +46,8 @@ h1{
 }
 
 .copy-container{
-  background-color: cornsilk;
-  width:228px;
+  width:828px;
+  float: left;
 }
 
 
@@ -72,7 +72,7 @@ h1{
 
 .article{
   background-color: whitesmoke;
-  width:600px;
+  width:828px;
 }
 
 .contact-form{
@@ -100,6 +100,7 @@ h2{
 
 .introduction{
   font-size: 10px;
+
 }
 
 .introduction center{
@@ -107,20 +108,11 @@ h2{
   font-family:serif;
 }
 
-.sidebar{
 
-  width:100px;
-  height:500px;
-  float: left;
-}
 
 .main-content{
   width:718px;
   margin-left: 10px;
-}
-
-.main{
-  display:flex;
 }
 
 .a{
